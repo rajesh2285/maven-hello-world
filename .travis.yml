@@ -12,5 +12,5 @@ deploy:
   skip_cleanup: true
   username: rajeshmukkapati
   password: firstApp
-  site: hello-world-app
+  site: sample-jar-app
   skip_cleanup: true
